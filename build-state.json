@@ -1,0 +1,14 @@
+{
+  "sourceFilename": "org.xbmc.kodi_20260920-9c756f52-master_arm.ipk",
+  "sourceUrl": "https://mirrors.kodi.tv/nightlies/webos/master/org.xbmc.kodi_20260920-9c756f52-master_arm.ipk",
+  "sourceDate": "20260920",
+  "sourceCommit": "9c756f52",
+  "sameDayRevision": 0,
+  "originalVersion": "21.90.802",
+  "trackingVersion": "26.9.200",
+  "upstreamSha256": "31d730c3ecaea2721f5f9c31fe42c188014d0583d802823195163d90ae95bbc7",
+  "repackedSha256": "ecf52c90ed2fe207242469eedd30f30501ee1b5c0e87c01082bb2a2b58d55739",
+  "releaseTag": "nightly-20260920-9c756f52",
+  "assetName": "org.xbmc.kodi_20260920-9c756f52-homebrew_arm.ipk",
+  "updatedAt": "2026-09-22T20:56:28.841724+00:00"
+}
