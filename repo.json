@@ -9,20 +9,20 @@
     {
       "id": "org.xbmc.kodi",
       "title": "Kodi Nightly",
-      "description": "Kodi webOS master nightly 2026-09-27 (28ea2eac). Unofficial metadata-only repack for Homebrew Channel update detection. Kodi binaries come from Team Kodi's official nightly.",
+      "description": "Kodi webOS master nightly 2026-10-01 (f889ea2d). Unofficial metadata-only repack for Homebrew Channel update detection. Kodi binaries come from Team Kodi's official nightly.",
       "iconUri": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/webOS/packaging/largeIcon.png",
       "manifest": {
         "id": "org.xbmc.kodi",
-        "version": "26.9.270",
+        "version": "26.10.10",
         "type": "native",
         "title": "Kodi Nightly",
-        "appDescription": "Kodi webOS master nightly 2026-09-27 (28ea2eac). Unofficial metadata-only repack for Homebrew Channel update detection. Kodi binaries come from Team Kodi's official nightly.",
+        "appDescription": "Kodi webOS master nightly 2026-10-01 (f889ea2d). Unofficial metadata-only repack for Homebrew Channel update detection. Kodi binaries come from Team Kodi's official nightly.",
         "iconUri": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/webOS/packaging/largeIcon.png",
-        "sourceUrl": "https://github.com/xbmc/xbmc/commit/28ea2eac",
+        "sourceUrl": "https://github.com/xbmc/xbmc/commit/f889ea2d",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/Alqatrony/kodi-webos-nightly-repo/releases/download/nightly-20260927-28ea2eac/org.xbmc.kodi_20260927-28ea2eac-homebrew_arm.ipk",
+        "ipkUrl": "https://github.com/Alqatrony/kodi-webos-nightly-repo/releases/download/nightly-20261001-f889ea2d/org.xbmc.kodi_20261001-f889ea2d-homebrew_arm.ipk",
         "ipkHash": {
-          "sha256": "eaa4b26dc99bd1177c5068a2ad3f9def74ff0c4b9231f708517e40100113f2fe"
+          "sha256": "ae6feaf0870759a079b55226b4796e3aba915f74a24358f8b6dafee1d1770cee"
         }
       }
     }
