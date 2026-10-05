@@ -1,14 +1,14 @@
 {
-  "sourceFilename": "org.xbmc.kodi_20261002-0056082c-master_arm.ipk",
-  "sourceUrl": "https://mirrors.kodi.tv/nightlies/webos/master/org.xbmc.kodi_20261002-0056082c-master_arm.ipk",
-  "sourceDate": "20261002",
-  "sourceCommit": "0056082c",
+  "sourceFilename": "org.xbmc.kodi_20261004-d1cecd8a-master_arm.ipk",
+  "sourceUrl": "https://mirrors.kodi.tv/nightlies/webos/master/org.xbmc.kodi_20261004-d1cecd8a-master_arm.ipk",
+  "sourceDate": "20261004",
+  "sourceCommit": "d1cecd8a",
   "sameDayRevision": 0,
   "originalVersion": "22.90.701",
-  "trackingVersion": "26.10.20",
-  "upstreamSha256": "8c6f7b4529a30480fb4d0eb88d9d8dab6b2f09749ed14d33e5ffa5349fbd24c3",
-  "repackedSha256": "54ae5ceca977349944a7a86701b132b7b7e7d4cbe20ac29c49376146a3594735",
-  "releaseTag": "nightly-20261002-0056082c",
-  "assetName": "org.xbmc.kodi_20261002-0056082c-homebrew_arm.ipk",
-  "updatedAt": "2026-10-03T11:37:18.516113+00:00"
+  "trackingVersion": "26.10.40",
+  "upstreamSha256": "964ac53828bfdb9cd4cb486c0abd4304889bf4036251968961b046ac6398f76e",
+  "repackedSha256": "35b02c689acf5ce4b9663396072681d371950f16eb1dcb977442eb34d98eff10",
+  "releaseTag": "nightly-20261004-d1cecd8a",
+  "assetName": "org.xbmc.kodi_20261004-d1cecd8a-homebrew_arm.ipk",
+  "updatedAt": "2026-10-05T14:32:33.572606+00:00"
 }
